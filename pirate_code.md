@@ -41,6 +41,6 @@ get your fair share of the prize!
 
 Captain      : Peter Leary
 Quartermaster: Raphael Betschart
-First mate   : NAME_HERE
+First mate   : Massimiliano
 
 
